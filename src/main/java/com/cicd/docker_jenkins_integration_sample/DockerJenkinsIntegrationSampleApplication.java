@@ -20,6 +20,7 @@ public class DockerJenkinsIntegrationSampleApplication {
 	public void init(){
 		logger.info("Application initialized ....");
 		logger.info("Used for docker jenkins integration sample .....");
+		logger.info("Used for docker jenkins integration sample Assad .....");
 	}
 
 	public static void main(String[] args) {
